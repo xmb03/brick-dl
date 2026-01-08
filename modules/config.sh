@@ -3,7 +3,7 @@
 # Configuration settings for the brick-dl script
 
 # Your Steam login username. Replace 'absxlutov' with your actual Steam login.
-MY_LOGIN="absxlutov"
+MY_LOGIN="your_user"
 
 # The App ID for Brick Rigs on Steam. This is standard and usually does not need changing.
 APP_ID=552100
