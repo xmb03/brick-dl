@@ -78,4 +78,4 @@ This script is provided under the [MIT License](LICENSE). Feel free to use, modi
 
 ---
 
-*   *This README was generated automatically. Please ensure all paths and configurations in `modules/config.sh` are correctly set for your environment.*
+*   *Please ensure all paths and configurations in `modules/config.sh` are correctly set for your environment.*
